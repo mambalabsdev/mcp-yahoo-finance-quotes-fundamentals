@@ -1,0 +1,31 @@
+{
+  "name": "mcp-yahoo-finance-quotes-fundamentals",
+  "displayName": "Yahoo Finance Quotes and Fundamentals",
+  "version": "1.0.0",
+  "description": "MCP server for Yahoo Finance Quotes and Fundamentals. Stock quotes, valuation ratios, financial statements, price history, and dividends per ticker. No Yahoo login or key. Runs on Apify. Clay-ready output.",
+  "author": {
+    "name": "Mamba Labs",
+    "email": "labs@mambamindsetgrowth.com"
+  },
+  "homepage": "https://mambabuilt.com",
+  "repository": "https://github.com/mambalabsdev/mcp-yahoo-finance-quotes-fundamentals",
+  "license": "MIT",
+  "category": "productivity",
+  "tags": [
+    "yahoo-finance",
+    "stock-quotes",
+    "financial-statements",
+    "stock-market",
+    "fundamentals"
+  ],
+  "keywords": [
+    "mcp",
+    "model-context-protocol",
+    "yahoo-finance",
+    "stock-quotes",
+    "financial-statements",
+    "stock-market",
+    "fundamentals"
+  ],
+  "mcpServers": ".mcp.json"
+}

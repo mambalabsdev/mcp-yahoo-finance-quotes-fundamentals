@@ -1,0 +1,14 @@
+{
+  "mcpServers": {
+    "mamba-yahoo-finance-quotes-fundamentals": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@mambalabsdev/mcp-yahoo-finance-quotes-fundamentals"
+      ],
+      "env": {
+        "APIFY_TOKEN": "your-apify-token"
+      }
+    }
+  }
+}
