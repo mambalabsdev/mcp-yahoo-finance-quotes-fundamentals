@@ -1,7 +1,7 @@
 {
   "name": "mcp-yahoo-finance-quotes-fundamentals",
   "displayName": "Yahoo Finance Quotes and Fundamentals",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "MCP server for Yahoo Finance Quotes and Fundamentals. Stock quotes, valuation ratios, financial statements, price history, and dividends per ticker. No Yahoo login or key. Runs on Apify. Clay-ready output.",
   "author": {
     "name": "Mamba Labs",
